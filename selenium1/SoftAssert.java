@@ -25,7 +25,7 @@ public class SoftAssert {
 		WebElement st1= driver.findElement(By.xpath("//h1[@id='headingText']"));
 		st1.getText();
 		
-	Assert.assertEquals("Sign in", st1);
+	Assert.assertEquals("Sign khjhjhjhjhin", st1);
 	System.out.println("matchs");
 	
 	
