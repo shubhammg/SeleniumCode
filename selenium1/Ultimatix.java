@@ -23,7 +23,7 @@ driver.manage().deleteAllCookies();
 driver.manage().window().maximize();
 driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
 
-driver.get("https://www.onlinesbi.com/");
+driver.get("https://www.facebook.com/");
 
 
 
